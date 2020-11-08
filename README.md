@@ -1,4 +1,4 @@
-<h1 align="center">Calculadora</h1>
+<h1 align="center">Calculadora 📟</h1>
 
 # Technologies :computer:
 This project was developed with the following technologies:
