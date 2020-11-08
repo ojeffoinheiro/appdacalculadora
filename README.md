@@ -3,24 +3,7 @@
 # Technologies :computer:
 This project was developed with the following technologies:
 
-<details>
-  <summary>Frontend Mobile</summary>
-
 - [React Native](https://reactnative.dev)
-- [React Navigation](https://reactnavigation.org)
-- [Typescript](typescriptlang.org/)
-- [Axios](https://github.com/axios/axios)
-</details>
-
-<details>
-  <summary>Backend</summary>
-
-- [NodeJS](https://nodejs.org/)
-- [Express](https://expressjs.com/pt-br/)
-- [Typescript](https://typescriptlang.org/)
-- [TypeORM](https://typeorm.io#/)
-- [Multer](https://www.npmjs.com/package/multer)
-</details>
 
 # How to use :fire:
 ## Precondition :white_flag:
@@ -32,37 +15,21 @@ You should have:
 ## Clone this repository
 
 ```bash
-$ git clone https://github.com/ojeffoinheiro/tasks.git
+$ git clone https://github.com/ojeffoinheiro/appdacalculadora.git
 ```
 
 ## Install the dependencies
 
 ```bash
-cd backend && npm i
-cd mobile && npm i
+cd appdacalculadora && npm i
 ```
 
-
-## Running the Server 🌐
-
-Enter on folder
-
-```bash
-$ cd backend
-```
-
-Run the server
-
-```bash
-$ yarn start
-```
-
-## Run on mobile :iphone:
+## Run :iphone:
 
 Entre na pasta
 
 ```bash
-$ cd mobile
+$ cd appdacalculadora
 ```
 
 Run the application
